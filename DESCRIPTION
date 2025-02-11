@@ -1,11 +1,13 @@
 Package: normmix
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Mixed Normal Distribution
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Drake Wilson
+Maintainer: Drake Wilson <dwils121@kent.edu>
+Description:     This package provides functions to observe information on 
+a mixture of two normal distributions. It receives inputs of sample 
+size as well as the means and standard deviations for two separate normal 
+distributions. This is a class project.
+License: 
 Encoding: UTF-8
 LazyData: true
