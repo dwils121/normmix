@@ -7,7 +7,7 @@ Maintainer: Drake Wilson <dwils121@kent.edu>
 Description:     This package provides functions to observe information on 
 a mixture of two normal distributions. It receives inputs of sample 
 size as well as the means and standard deviations for two separate normal 
-distributions. This is a class project.
+distributions.
 License: 
 Encoding: UTF-8
 LazyData: true
