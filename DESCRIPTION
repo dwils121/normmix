@@ -3,8 +3,7 @@ Title: Mixed Normal Distribution
 Version: 0.0.0.9000
 Authors@R: 
     person("Drake", "Wilson", , "dwils121@kent.edu", role = c("aut", "cre"))
-Description: This package contains functions that provide information on a 
-mixture of two normal distributions. The distribution depends on a given mixture proportion, as well as the means and standard deviations of the normal distributions.
+Description: This package contains functions that provide information on a mixture of two normal distributions. The distribution depends on a given mixture proportion, as well as the means and standard deviations of the normal distributions.
 License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
